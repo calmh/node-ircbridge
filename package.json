@@ -1,0 +1,15 @@
+{
+  "author": "Jakob Borg <jakob@nym.se> (http://nym.se/)",
+  "name": "ircbridge-client",
+  "description": "Bridges IRC to JSON-RPC over UDP (client library).",
+  "version": "1.0.0",
+  "homepage": "https://github.com/calmh/node-ircbridge/ircbridge-client",
+  "main": "./client.js",
+  "repository": {
+      "url": "https://github.com/calmh/node-ircbridge.git"
+  },
+  "dependencies": { },
+  "engines": {
+    "node": ">= 0.8.x"
+  }
+}
